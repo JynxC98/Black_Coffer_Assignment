@@ -204,14 +204,14 @@ def Counts(
         number_of_personal_pronouns,
     )
 
+if __name__ == "__main__":
+    updated_dataframe = Web_Scraper(
+        data,
+        positive_words,
+        negative_words,
+        stop_words,
+        personal_pronouns,
+        "td-post-content",
+    )
 
-updated_dataframe = Web_Scraper(
-    data,
-    positive_words,
-    negative_words,
-    stop_words,
-    personal_pronouns,
-    "td-post-content",
-)
-
-updated_dataframe.to_csv("Black_coffer_assignment")
+    updated_dataframe.to_csv("Black_coffer_assignment")
