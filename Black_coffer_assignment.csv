@@ -1,4 +1,4 @@
-,URL_ID,URL,Number of Sentences,Number of positive words,Number of Negative words,Number of words before cleaning,Number of words after cleaning,Average_word_length,Average sentence length,Subjectivity score,Syllable Count,Personal Pronoun
+URL_ID,URL,Number of Sentences,Number of positive words,Number of Negative words,Number of words before cleaning,Number of words after cleaning,Average_word_length,Average sentence length,Subjectivity score,Syllable Count,Personal Pronoun
 0,1,https://insights.blackcoffer.com/how-is-login-logout-time-tracking-for-employees-in-office-done-by-ai/,28,4,4,686,411,24.5,14.678571428571429,0.019465720194647203,1368,11
 1,2,https://insights.blackcoffer.com/how-does-ai-help-to-monitor-retail-shelf-watches/,29,5,5,615,374,21.20689655172414,12.89655172413793,0.026738967914438503,1266,15
 2,3,https://insights.blackcoffer.com/ai-and-its-impact-on-the-fashion-industry/,77,28,16,1710,1022,22.207792207792206,13.272727272727273,0.04305383757338552,3652,35
